@@ -1,0 +1,2 @@
+# Facedetect_opencv
+facedetect_image.py用来识别图片中的人脸
